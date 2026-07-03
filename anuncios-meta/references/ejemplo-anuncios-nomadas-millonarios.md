@@ -14,7 +14,7 @@
 **Diferencial / mecanismo:** hecho-para-ti total — el cliente **no aprende, no contrata, no configura nada**; las automatizaciones hacen **el trabajo de 4 personas**, 24/7, sin sueldos, sin rotación, sin errores.
 **Promesa central:** que tu negocio funcione **en automático** y te **ahorres un equipo entero**, escalando sin aumentar la nómina.
 
-> 🔒 **NO mencionar precio en ningún anuncio.** Se puede hablar del **ahorro** (el costo de contratar empleados es del cliente) pero **nunca** del precio del servicio. Sin garantías de ingresos.
+> 🔒 **NO mencionar precio en ningún anuncio.** (Interno, nunca en el copy: setup $3.000–$5.000 + $500/mes mantenimiento.) Se puede hablar del **ahorro** (el costo de contratar empleados es de ellos) pero **nunca** del precio del servicio. Sin garantías de ingresos.
 
 ### 🎯 CTA del proyecto
 > **Acción:** Botón → **ver un corto video** y luego **agendar una llamada**. Venta **global** (sin ciudad). Cerrar con **dolor o sueño**.
