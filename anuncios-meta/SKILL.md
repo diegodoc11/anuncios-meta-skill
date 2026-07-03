@@ -172,8 +172,9 @@ Meta rechaza anuncios que afirman atributos personales o hacen promesas agresiva
   **Léelo siempre** antes de escribir los ganchos, para rotar fórmulas y captar el tono.
 - **`references/documento-base.md`** — la metodología completa (niveles de conciencia, anatomía, elementos del cuerpo,
   CTA, calibración). Consúltalo si necesitas detalle de algún componente.
-- **`references/ejemplo-anuncios-ia.md`**, **`...-criolipolisis.md`**, **`...-seduccion.md`** — bancos reales de 30
-  anuncios ya calibrados. Antes de generar, **lee el ejemplo del nicho más parecido** (o uno cualquiera) para clonar
+- **`references/ejemplo-anuncios-ia.md`**, **`...-criolipolisis.md`**, **`...-seduccion.md`**,
+  **`...-nomadas-millonarios.md`** (agencia de marketing con IA) — bancos reales de 30 anuncios ya calibrados.
+  Antes de generar, **lee el ejemplo del nicho más parecido** (o uno cualquiera) para clonar
   el nivel de calidad, la estructura y la longitud. Son tu mejor referencia de estilo.
 - **`references/ejemplo-avatares-y-dolores.md`** — ejemplo de cómo se ve un avatar con dolores bien capturados.
 
